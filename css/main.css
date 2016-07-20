@@ -1,0 +1,19 @@
+h1{
+	text-decoration: underline;
+	text-align: left;
+}
+.imagen{
+	display:inline-block;
+	opacity: 0.3;
+}
+
+
+div>p{
+	position: relative;
+	text-align: right;
+	top: 210px;
+	font-size:20px;
+	font-weight: bold;
+	color:white;
+	margin-right: 5px;
+}
